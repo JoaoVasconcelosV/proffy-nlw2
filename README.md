@@ -37,12 +37,12 @@ Made as a way to honor the National Day of Education Professionals on August 6. 
   $ yarn knex:migrate # Setting up the database and creating the tables.
   $ yarn start # Starting the Server
 
-  # Aplicação web
+  # Application web
   $ cd web 
   $ yarn install # Installing the dependencies.
   $ yarn start # Starting the web application
 
-  # Aplicação mobile
+  # Application mobile
   $ cd mobile  
   $ yarn install # Installing the dependencies.
   $ yarn start # Starting the mobile application
